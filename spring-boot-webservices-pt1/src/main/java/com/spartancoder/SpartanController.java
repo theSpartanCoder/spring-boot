@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 public class SpartanController {
     @RequestMapping("/hello")
     @ResponseBody
-    String home() {
+    public String home() {
         return "Hello World!";
     }
 }
