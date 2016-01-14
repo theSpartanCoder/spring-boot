@@ -8,6 +8,6 @@ public class SpartanController {
     @RequestMapping("/hello")
     @ResponseBody
     public String home() {
-        return "Hello World!";
+        return "Spartans, what is your profession? -Ahoo, ahoo, ahoo";
     }
 }
