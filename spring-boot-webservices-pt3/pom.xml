@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.spartancoder.springboot</groupId>
-    <artifactId>webservices-pt2</artifactId>
+    <artifactId>webservices-pt3</artifactId>
     <version>1.0.0</version>
     <parent>
         <groupId>org.springframework.boot</groupId>
